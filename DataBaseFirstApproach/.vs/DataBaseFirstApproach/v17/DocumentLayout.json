@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shan Gul\\Desktop\\DotNet Core\\DataBaseFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAF1BDE-DAD7-4C4B-87DB-784D3F42E6BD}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\shan gul\\desktop\\dotnet core\\databasefirstapproach\\databasefirstapproach\\databasefirstapproach.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DFAF1BDE-DAD7-4C4B-87DB-784D3F42E6BD}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\databasefirstapproach.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAF1BDE-DAD7-4C4B-87DB-784D3F42E6BD}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\shan gul\\desktop\\dotnet core\\databasefirstapproach\\databasefirstapproach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFAF1BDE-DAD7-4C4B-87DB-784D3F42E6BD}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAF1BDE-DAD7-4C4B-87DB-784D3F42E6BD}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\shan gul\\desktop\\dotnet core\\databasefirstapproach\\databasefirstapproach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFAF1BDE-DAD7-4C4B-87DB-784D3F42E6BD}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAF1BDE-DAD7-4C4B-87DB-784D3F42E6BD}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\shan gul\\desktop\\dotnet core\\databasefirstapproach\\databasefirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAF1BDE-DAD7-4C4B-87DB-784D3F42E6BD}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAF1BDE-DAD7-4C4B-87DB-784D3F42E6BD}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\shan gul\\desktop\\dotnet core\\databasefirstapproach\\databasefirstapproach\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFAF1BDE-DAD7-4C4B-87DB-784D3F42E6BD}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAF1BDE-DAD7-4C4B-87DB-784D3F42E6BD}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\shan gul\\desktop\\dotnet core\\databasefirstapproach\\databasefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAF1BDE-DAD7-4C4B-87DB-784D3F42E6BD}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAF1BDE-DAD7-4C4B-87DB-784D3F42E6BD}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\shan gul\\desktop\\dotnet core\\databasefirstapproach\\databasefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFAF1BDE-DAD7-4C4B-87DB-784D3F42E6BD}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAF1BDE-DAD7-4C4B-87DB-784D3F42E6BD}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|c:\\users\\shan gul\\desktop\\dotnet core\\databasefirstapproach\\databasefirstapproach\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAF1BDE-DAD7-4C4B-87DB-784D3F42E6BD}|DataBaseFirstApproach\\DataBaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataBaseFirstApproach.csproj",
+              "DocumentMoniker": "C:\\Users\\Shan Gul\\Desktop\\DotNet Core\\DataBaseFirstApproach\\DataBaseFirstApproach\\DataBaseFirstApproach.csproj",
+              "RelativeDocumentMoniker": "DataBaseFirstApproach\\DataBaseFirstApproach.csproj",
+              "ToolTip": "C:\\Users\\Shan Gul\\Desktop\\DotNet Core\\DataBaseFirstApproach\\DataBaseFirstApproach\\DataBaseFirstApproach.csproj",
+              "RelativeToolTip": "DataBaseFirstApproach\\DataBaseFirstApproach.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-27T06:37:31.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shan Gul\\Desktop\\DotNet Core\\DataBaseFirstApproach\\DataBaseFirstApproach\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DataBaseFirstApproach\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Shan Gul\\Desktop\\DotNet Core\\DataBaseFirstApproach\\DataBaseFirstApproach\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "DataBaseFirstApproach\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T06:14:50.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shan Gul\\Desktop\\DotNet Core\\DataBaseFirstApproach\\DataBaseFirstApproach\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "DataBaseFirstApproach\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Shan Gul\\Desktop\\DotNet Core\\DataBaseFirstApproach\\DataBaseFirstApproach\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "DataBaseFirstApproach\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T06:14:10.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shan Gul\\Desktop\\DotNet Core\\DataBaseFirstApproach\\DataBaseFirstApproach\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DataBaseFirstApproach\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Shan Gul\\Desktop\\DotNet Core\\DataBaseFirstApproach\\DataBaseFirstApproach\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DataBaseFirstApproach\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T06:08:21.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Shan Gul\\Desktop\\DotNet Core\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DataBaseFirstApproach\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Shan Gul\\Desktop\\DotNet Core\\DataBaseFirstApproach\\DataBaseFirstApproach\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DataBaseFirstApproach\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAwJUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T06:08:12.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Shan Gul\\Desktop\\DotNet Core\\DataBaseFirstApproach\\DataBaseFirstApproach\\appsettings.json",
+              "RelativeDocumentMoniker": "DataBaseFirstApproach\\appsettings.json",
+              "ToolTip": "C:\\Users\\Shan Gul\\Desktop\\DotNet Core\\DataBaseFirstApproach\\DataBaseFirstApproach\\appsettings.json",
+              "RelativeToolTip": "DataBaseFirstApproach\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T05:55:40.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shan Gul\\Desktop\\DotNet Core\\DataBaseFirstApproach\\DataBaseFirstApproach\\Program.cs",
+              "RelativeDocumentMoniker": "DataBaseFirstApproach\\Program.cs",
+              "ToolTip": "C:\\Users\\Shan Gul\\Desktop\\DotNet Core\\DataBaseFirstApproach\\DataBaseFirstApproach\\Program.cs",
+              "RelativeToolTip": "DataBaseFirstApproach\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:55:38.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CodeFirstDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shan Gul\\Desktop\\DotNet Core\\DataBaseFirstApproach\\DataBaseFirstApproach\\Models\\CodeFirstDbContext.cs",
+              "RelativeDocumentMoniker": "DataBaseFirstApproach\\Models\\CodeFirstDbContext.cs",
+              "ToolTip": "C:\\Users\\Shan Gul\\Desktop\\DotNet Core\\DataBaseFirstApproach\\DataBaseFirstApproach\\Models\\CodeFirstDbContext.cs",
+              "RelativeToolTip": "DataBaseFirstApproach\\Models\\CodeFirstDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:51:59.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
