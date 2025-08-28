@@ -7,8 +7,8 @@ namespace CodeFirstApproach.Models
         public StudentDBContext(DbContextOptions options) : base(options) //parent class ky constructor ko
         {
         }
-        public DbSet<Student> Students { get; set; } // database mein table jo create hoga Students
-
+        //    <Student> (ya mdel class ka naam hai jo table create karega)    
+        public DbSet<Student> Students { get; set; } //(Students) database mein table ka naam hai
 
 
     }
